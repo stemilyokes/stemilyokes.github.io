@@ -20,7 +20,7 @@ author:
       url: "https://scholar.google.com/citations?user=z67XYusAAAAJ&hl=en"
     - label: "ORCID"
       icon: "fab fa-fw fa-orcid"
-      url: "#"
+      url: "https://orcid.org/0009-0006-1364-240X"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:emily_stokes@outlook.com"
