@@ -52,8 +52,12 @@ paginate: 5
 # Defaults
 defaults:
   - scope:
-      path: ""
+      path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
+
+# Für Verknüpfung der Pages
+include:
+  - _pages
