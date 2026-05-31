@@ -1,0 +1,57 @@
+title: Emily Stokes
+name: Emily Stokes
+description: Art Historian | Visual Culture | GDR, Memory & Queer History
+
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-sitemap
+
+minimal_mistakes_skin: "air"  # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Author / sidebar info
+author:
+  name: Emily Stokes
+  bio: "Art historian specialising in East German visual culture, queer history, and archival practice."
+  email: emily_stokes@outlook.com
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "#"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "#"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:emily_stokes@outlook.com"
+
+# Navigation
+navigation:
+  - title: "About"
+    url: /
+  - title: "Publications"
+    url: /publications/
+  - title: "Contact"
+    url: /contact/
+
+# Site settings
+locale: "en-GB"
+url: "https://leduckwillcarry.github.io"
+baseurl: ""
+repository: "LeDuckWillCarry/leduckwillcarry.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+paginate: 5
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
