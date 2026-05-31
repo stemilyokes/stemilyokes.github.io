@@ -37,9 +37,9 @@ navigation:
 
 # Site settings
 locale: "en-GB"
-url: "https://leduckwillcarry.github.io"
+url: "https://stemilyokes.github.io"
 baseurl: ""
-repository: "LeDuckWillCarry/leduckwillcarry.github.io"
+repository: "stemilyokes/stemilyokes.github.io"
 
 # Build settings
 markdown: kramdown
