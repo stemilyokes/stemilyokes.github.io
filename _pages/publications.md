@@ -24,6 +24,9 @@ author_profile: true
 
 ## Conference Presentations
 
+**2026**
+- 'The Interior World of East German Collector Siegmar Piske', Mundane Queer History, Universitetet i Bergen, May 2026.
+
 **2025**
 - 'Queer Image Makers and Keepers: Collaboration, Affect, and Archivisation in the Stasi Records Archive', SECAC Annual Conference, Cincinnati OH, October 2025.
 - 'The Stage and Costume Designs of Peter Kothe: Slipping Between Life and Theatre in the GDR', *Light On! Queer Literatures and Cultures under Socialism*, Universität Regensburg, June 2025.
